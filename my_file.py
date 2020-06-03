@@ -1,1 +1,1 @@
-print('Hi Git')
+greeting = "Hello"
